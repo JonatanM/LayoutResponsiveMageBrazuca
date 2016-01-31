@@ -161,7 +161,7 @@ fieldset {
 #search-box {
     float: left;
     margin-left: 80px;
-    margin-top: 10px;
+    margin-top: 0px;
 }
 
 .header-link {
@@ -186,7 +186,7 @@ fieldset {
 
 #header-login-box,
 #header-new-post-box {
-    margin-left: 10px;
+    margin-left: 0px;
 }
 
 #header-user-logged-box {
@@ -878,7 +878,7 @@ fieldset {
     width: 90%;
     padding: 18px 5px;
     display: inline-block;
-    margin-left: 10px;
+    margin-left: 0px;
 
 }
 #search {
