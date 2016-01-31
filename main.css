@@ -569,8 +569,7 @@ fieldset {
 }
 
 .post-title {
-    padding-right: 120px;
-    margin: 25px 0 0 125px;
+    padding: 10px;
 }
 
 .post-title-link {
