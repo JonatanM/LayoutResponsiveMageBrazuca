@@ -655,8 +655,8 @@ fieldset {
     background: url(../images/upvote.png) 0 0 no-repeat;
     cursor: pointer;
     position: absolute;
-    top: 35px;
-    left: 20px;
+    bottom: 10%;
+    left: 10px;
     width: 40px;
     height: 35px;
     padding-left: 45px;
