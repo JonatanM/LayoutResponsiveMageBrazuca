@@ -847,7 +847,7 @@ fieldset {
 }
 #search-box {
     float: left;
-    margin-left: 10px;
+    margin-left: 0px;
     margin-top: 17px;
     width: 70%;
 }
@@ -886,7 +886,7 @@ fieldset {
 }
 #search-box {
     float: left;
-    margin-left: 10px;
+    margin-left: 0px;
     margin-top: 17px;
     width: 60%;
 }
